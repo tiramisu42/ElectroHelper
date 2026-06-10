@@ -20,7 +20,10 @@
 > T_D0 - 19  
 > T_IRQ - (пусто, do not connect)  
 
-##  
+## WORK PINS 
+> PWM (ШИМ) - 25 (you can change)
+> oscilloscope (График АЦП) - 34
+
   > [!WARNING]
 > do not apply more than 5 volts to the oscilloscope pin!
 
