@@ -21,7 +21,7 @@
 > T_IRQ - (пусто, do not connect)  
 
 ## WORK PINS 
-> PWM (ШИМ) - 25 (you can change)
+> PWM (ШИМ) - 25 (you can change)  
 > oscilloscope (График АЦП) - 34
 
   > [!WARNING]
