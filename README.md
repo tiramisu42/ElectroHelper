@@ -19,3 +19,5 @@ display pins (2.8 TFT SPI 240x320):
   T_D0 - 19
   T_IRQ - (пусто, do not connect)
 
+  
+
