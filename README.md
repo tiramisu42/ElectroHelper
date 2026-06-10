@@ -19,7 +19,8 @@
 > T_DIN - 23  
 > T_D0 - 19  
 > T_IRQ - (пусто, do not connect)  
-  
+
+##  
   > [!WARNING]
 > do not apply more than 5 volts to the oscilloscope pin!
 
