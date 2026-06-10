@@ -4,11 +4,8 @@ This firmware will help you calculate or find out different values ​​of elec
 <img width="1587" height="1195" alt="IMG_20260609_161536093" src="https://github.com/user-attachments/assets/b5c74683-1bf3-49b1-b49c-007bbe6f6d94" />
 
 display pins (2.8 TFT SPI 240x320):
-
   VCC - 3v3
-
   GND - GND
-
   CS - 15
 
   RESET - 4
